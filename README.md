@@ -1,2 +1,2 @@
-# crediatcard-csv
-it is a creadticard.csv data analytics project.
+Sample-superstore xls project
+it is a sample-superstore xls  data analytics project.
